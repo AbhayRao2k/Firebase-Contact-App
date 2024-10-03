@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # Firebase-Contact-App
+https://firebase-contact-app12.netlify.app
 =======
 # React + Vite
 
